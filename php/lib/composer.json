@@ -1,0 +1,5 @@
+{
+  "require": {
+    "dgonzales371/uuid": "@stable"
+  }
+}
